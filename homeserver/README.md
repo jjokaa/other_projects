@@ -1,6 +1,7 @@
 # 🖥️ My Home Server
 
-<img width="2953" height="2728" alt="homeserver" src="https://github.com/user-attachments/assets/09db4045-387d-4069-9b7e-db2daacbcb12" />
+<img width="1536" height="1465" alt="WhatsApp Image 2026-04-20 at 13 11 37" src="https://github.com/user-attachments/assets/86f3326d-30e2-47fa-a17d-0a27d542dee0" />
+
 
 ## ⚙️ Hardware Specifications
 

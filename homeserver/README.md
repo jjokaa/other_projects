@@ -1,5 +1,7 @@
 # 🖥️ My Home Server
 
+<img width="2953" height="2728" alt="homeserver" src="https://github.com/user-attachments/assets/09db4045-387d-4069-9b7e-db2daacbcb12" />
+
 ## ⚙️ Hardware Specifications
 
 | Component | Specification |

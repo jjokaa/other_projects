@@ -27,7 +27,7 @@
   * Sonarr (TV Shows)
   * Prowlarr (Indexers)
 * **[qBittorrent](https://www.qbittorrent.org/)**
-* **[tailscale)(https://tailscale.com/)**
+* **[tailscale](https://tailscale.com/)**
 
 ### ⏳ To Do (Coming Soon)
 * 🛡️ **Pi-hole** - 

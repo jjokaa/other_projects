@@ -32,7 +32,7 @@
 * **[qBittorrent](https://www.qbittorrent.org/)**
 * **[tailscale](https://tailscale.com/)**
 
-### ⏳ To Do (Coming Soon)
+### ⏳ To Do 
 * 🛡️ **Pi-hole** - 
 * 📁 **Samba / NFS** - 
 * 📊 **Netdata** 
